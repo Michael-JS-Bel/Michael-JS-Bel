@@ -59,12 +59,14 @@
 
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 
-
-## 🧠 Code Practice
-![Codewars badge](https://www.codewars.com/users/Michael-JS/badges/large)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michael-JS-Bel/Michael-JS-Bel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michael-JS-Bel/Michael-JS-Bel/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Michael-JS-Bel/Michael-JS-Bel/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+## 🧠 Code Practice
+![Codewars badge](https://www.codewars.com/users/Michael-JS/badges/large)
+
+
